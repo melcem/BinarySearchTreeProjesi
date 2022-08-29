@@ -10,6 +10,7 @@
    *        [2]                  [7]             
    *     [1]   [3]          [5]       [9]
    *  [0]                [6]       [8]
+   * 
 
      - İlk olarak root 4 aldık, 2 solunda, 7 sağında kaldı.
      - Sonra 1, root 2'nin solunda ve 3 root 2'nin sağında kaldı. Aynı satırda 
